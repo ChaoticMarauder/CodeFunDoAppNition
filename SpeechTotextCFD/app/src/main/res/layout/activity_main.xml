@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context="com.example.android.speechtotextcfd.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:id="@+id/txtSpeechInput"
+        android:text="Something you speak"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:layout_gravity="center_horizontal"
+        />
+
+
+    <ImageButton
+        android:id="@+id/btnSpeak"
+        android:layout_width="100dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/circle"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ic_action_microphone" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:text="Hold and Press the mic"
+        android:textAlignment="center"/>
+
+</LinearLayout>
