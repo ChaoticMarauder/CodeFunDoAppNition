@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/c060dda8b0e42f6157af32f77a5e19b7c8ee5f2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_e3bb461d8d513eb7d7582458df57491913db5412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/bff70064125e8bba2b4d265f804c6001be2e35eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_d59caef76c59ef5e5f25f4c6f83815ee85b86045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/2dee1a14639f2815fbec1eaedcc02b31f0932326/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_b086f1ce116bf6f5d595aa5a8a621a7605bd8287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/dea78816e3d8daddebad4c16598b0ac1dbc1264f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_b9ffbfa6e736db29aab836f0576cf4c6498ee983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/6eb9f92f55dacdbf6a56bbf08a67319b7843ad13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_7d0ddacf547cb28b671952e77fe1671b557d82c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_fffb331aae0ad953fe5c1b70e5802dae252f6e5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/f94bb1c018e7e7d69bc8ffe7bfb3115b957e983e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_285ad2adb46f36cd8cc29243bcde443089c590f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/a612b69e56c31e9f2c74f09ae6811ba2b12954a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_7d4acce7af82c5b966abb056fdec5ebda5c9dfd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/62932e41647939eb7e44ad9c774053ec25d44a84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_4033d98a2efc8d47404ecd915b2903959c6cda3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/2771fdd0536f27c23cc28e3483c467732c3fb0b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_59a9e248db5f6f24dcec98f7238982028a106e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/a2292ed5bd5044e21d91af11bd83b6d874778f42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_de628880ebf0dbe55dc557ca1145ea37e3d29b2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/c932d5661a4569c1d77c28afd118eb49dea0a4a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_05c3e451e47e2b503c97b1930f37ce19951858ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/39e6dabda79cd08a058782825df4571d864807f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_3401f639d1568361702f83dfc50bffb08de852a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.1_f2a9a0b29035696104ffd8061b64208aec0b0888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/4c1426e14c6f7723fc0985a29e7018da57e839ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_dc211f8aed2d2025cd35f7cff96f4534d7e7680e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrunz/.android/build-cache/570cfa1f314e74fa8c7fab158e5d53d76322d1a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/mrunz/CFD-AppNition/HRCamera/app/build/intermediates/pre-dexed/debug/classes_beb5f8ed09127b5cc42706b85fdbea70e31e8e58.jar" />
+    </item>
+
+</items>
